@@ -1,0 +1,2 @@
+dubbo=protocol.dubbo.DubboProtocol
+http=protocol.http.HttpProtocol
